@@ -1,0 +1,31 @@
+_repo: The-Stages-in-the-Social-History-of-Capitalism_32252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pirenne, Henri
+    aliases:
+    - Pirenne, Jean Henri Otto Lucien Marie
+    - Pirenne, H. (Henri)
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '35750'
+    url: http://www.gutenberg.org/2009/agents/35750
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Pirenne
+description: An Address Delivered at the International Congress of Historical Studies,
+  London, April, 1913
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Capitalism'
+title: The Stages in the Social History of Capitalism
+url: http://www.gutenberg.org/ebooks/32252
